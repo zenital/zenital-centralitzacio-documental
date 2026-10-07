@@ -1,0 +1,12 @@
+# Context local de negoci: no publicar al repositori
+/info/
+/CLAUDE.local.md
+
+# Configuració i secrets locals
+.env
+.env.*
+!.env.example
+
+# Fitxers de sistema
+.DS_Store
+Thumbs.db
